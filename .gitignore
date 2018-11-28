@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# VS pro files
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+# Debug Files
+*/Debug/*.*
+*/Debug/*
+*/.vs/*
+*/Release/*.*
+*/Release/*/*.*
+*/Backup/*
+*/.log
